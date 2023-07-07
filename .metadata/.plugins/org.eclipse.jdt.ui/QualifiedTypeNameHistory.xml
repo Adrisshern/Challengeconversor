@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ConversorMonedas.DatosConversorMonedas"/>
+    <fullyQualifiedTypeName name="ConversorTemperatura.ConvertirTemperatura"/>
+    <fullyQualifiedTypeName name="ConversorTemperatura.DatosConversorTemperatura"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="javax.swing.Icon"/>
+</qualifiedTypeNameHistroy>
